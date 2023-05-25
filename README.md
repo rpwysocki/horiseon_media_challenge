@@ -1,3 +1,6 @@
-# search_engine_challenge
-Week 1 challenge site
-This is where I am notating my work.
+# Code Refactor Starter Code
+
+Replaced tags to semantic tags
+Formatted document to a logical structure
+Corrected links to appropriate destination
+Retitled document
